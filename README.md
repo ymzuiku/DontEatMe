@@ -8,7 +8,7 @@
 
 ![](doc/img/2018-05-07-22-56-29.png)
 
-#体验游戏
+## 体验游戏
 * 游戏视频预览链接: http://pan.baidu.com/s/1mhivoG4 密码: pnw9
 * ipa包下载链接：http://pan.baidu.com/s/1c0AVf0G  密码：fo9q
 * 安装ipa包需要越狱的设备.测试机型尽量用以下型号:iPhone5,iPhone5s,iPhone6,iPhone6+,iPad4,iPadAir,iPadAir2.
