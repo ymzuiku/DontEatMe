@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  DontEatMe
+//
+//  Created by ymMac on 14-9-19.
+//  Copyright (c) 2014年 ymMac. All rights reserved.
+//
+
+#ifndef DontEatMe_PrefixHeader_pch
+#define DontEatMe_PrefixHeader_pch
+
+#import "SKExtendHeader.h"
+#import "ViewController.h"
+#import "AtlasController.h"
+#import "UserCenter.h"
+#import "StaticActions.h"
+#import "ClassCenter.h"
+
+#endif

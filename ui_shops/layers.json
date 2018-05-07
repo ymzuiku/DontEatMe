@@ -1,0 +1,607 @@
+[
+	{
+		"id": 1772,
+		"name": "cookPage",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 2195,
+				"name": "normalCook_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/normalCook_button.png",
+					"frame": {
+						"x": 98,
+						"y": 102,
+						"width": 234,
+						"height": 121
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "466018926"
+			},
+			{
+				"id": 1600,
+				"name": "cookView",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/cookView.png",
+					"frame": {
+						"x": 30,
+						"y": 180,
+						"width": 585,
+						"height": 818
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1830830473"
+			},
+			{
+				"id": 1595,
+				"name": "cooktab_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/cooktab_button.png",
+					"frame": {
+						"x": 321,
+						"y": 102,
+						"width": 234,
+						"height": 121
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1637823037"
+			},
+			{
+				"id": 1774,
+				"name": "#bg",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/#bg.png",
+					"frame": {
+						"x": 319,
+						"y": 567,
+						"width": 2,
+						"height": 2
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "552412413"
+			}
+		],
+		"modification": "420674264"
+	},
+	{
+		"id": 895,
+		"name": "cookBtns",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 855,
+				"name": "cook_0_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/cook_0_button.png",
+					"frame": {
+						"x": 100,
+						"y": 221,
+						"width": 438,
+						"height": 201
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "73190208"
+			},
+			{
+				"id": 841,
+				"name": "cook_1_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/cook_1_button.png",
+					"frame": {
+						"x": 103,
+						"y": 453,
+						"width": 436,
+						"height": 226
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1270943438"
+			},
+			{
+				"id": 961,
+				"name": "cook_2_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/cook_2_button.png",
+					"frame": {
+						"x": 99,
+						"y": 706,
+						"width": 440,
+						"height": 229
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "743154641"
+			},
+			{
+				"id": 1866,
+				"name": "#bg",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/#bg.png",
+					"frame": {
+						"x": 319,
+						"y": 567,
+						"width": 2,
+						"height": 2
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "2096029735"
+			}
+		],
+		"modification": "789669988"
+	},
+	{
+		"id": 1790,
+		"name": "goldPage",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 1923,
+				"name": "normalGold_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/normalGold_button.png",
+					"frame": {
+						"x": 321,
+						"y": 100,
+						"width": 234,
+						"height": 121
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "2024352809"
+			},
+			{
+				"id": 1789,
+				"name": "goldView",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/goldView.png",
+					"frame": {
+						"x": 30,
+						"y": 180,
+						"width": 585,
+						"height": 818
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "731069470"
+			},
+			{
+				"id": 1783,
+				"name": "goldtab_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/goldtab_button.png",
+					"frame": {
+						"x": 98,
+						"y": 102,
+						"width": 234,
+						"height": 121
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1310708318"
+			},
+			{
+				"id": 1779,
+				"name": "#bg",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/#bg.png",
+					"frame": {
+						"x": 319,
+						"y": 567,
+						"width": 2,
+						"height": 2
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "551488863"
+			}
+		],
+		"modification": "1314551574"
+	},
+	{
+		"id": 1023,
+		"name": "goldBtns",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 1816,
+				"name": "gold_5_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/gold_5_button.png",
+					"frame": {
+						"x": 314,
+						"y": 757,
+						"width": 258,
+						"height": 198
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "2126044263"
+			},
+			{
+				"id": 1818,
+				"name": "gold_4_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/gold_4_button.png",
+					"frame": {
+						"x": 76,
+						"y": 767,
+						"width": 231,
+						"height": 158
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "870989483"
+			},
+			{
+				"id": 1820,
+				"name": "gold_3_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/gold_3_button.png",
+					"frame": {
+						"x": 337,
+						"y": 588,
+						"width": 231,
+						"height": 158
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "453627668"
+			},
+			{
+				"id": 1822,
+				"name": "gold_2_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/gold_2_button.png",
+					"frame": {
+						"x": 76,
+						"y": 588,
+						"width": 231,
+						"height": 158
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "488177591"
+			},
+			{
+				"id": 1824,
+				"name": "gold_1_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/gold_1_button.png",
+					"frame": {
+						"x": 337,
+						"y": 413,
+						"width": 231,
+						"height": 158
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1828307055"
+			},
+			{
+				"id": 1826,
+				"name": "gold_0_button",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/gold_0_button.png",
+					"frame": {
+						"x": 76,
+						"y": 413,
+						"width": 231,
+						"height": 158
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1274279992"
+			},
+			{
+				"id": 1863,
+				"name": "#bg-3",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/#bg-3.png",
+					"frame": {
+						"x": 319,
+						"y": 567,
+						"width": 2,
+						"height": 2
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "551488769"
+			}
+		],
+		"modification": "1988368150"
+	},
+	{
+		"id": 1791,
+		"name": "other",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 2070,
+				"name": "gold_5_button_cn",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/gold_5_button_cn.png",
+					"frame": {
+						"x": 314,
+						"y": 757,
+						"width": 258,
+						"height": 198
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1394509428"
+			},
+			{
+				"id": 2097,
+				"name": "cook_2_button_cn",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/cook_2_button_cn.png",
+					"frame": {
+						"x": 99,
+						"y": 706,
+						"width": 440,
+						"height": 229
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "766501283"
+			}
+		],
+		"modification": "777343395"
+	}
+]
