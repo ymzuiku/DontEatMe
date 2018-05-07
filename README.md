@@ -14,8 +14,10 @@
 * 安装ipa包需要越狱的设备.测试机型尽量用以下型号:iPhone5,iPhone5s,iPhone6,iPhone6+,iPad4,iPadAir,iPadAir2.
 
 ***
+
 # 这一年，我的工作内容到底有哪些？
 > 开发过程记录:http://pan.baidu.com/s/1gfhnKwr
+
 ###策划
 > 游戏核心玩法设定
 设计游戏兵种，关系互克，技能
